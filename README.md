@@ -22,7 +22,7 @@ Programming Language: C++
 
 Data Structures: Linked Lists, Trees, Hash Tables, Queues, Stacks
 
-Algorithms: Searching, Sorting, Graph Traversal (if applicable)
+Algorithms: Searching, Sorting algorithms, Graph Traversal 
 
 Project Structure
 
